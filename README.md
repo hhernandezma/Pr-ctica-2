@@ -26,9 +26,9 @@ Puede chequear el dataset en la siguiente dirección:https://www.kaggle.com/ucim
 
 Desarrollar un modelo estadístico que logre predecir o clasificar las tres especies a partir de los 4 atributos enunciados anteriormente, lo cual se convierta en un caso de prueba y aprendizaje para las técnicas de clasificación estadística en el aprendizaje automático.
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/220px-Kosaciec_szczecinkowaty_Iris_setosa.jpg
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/220px-Iris_versicolor_3.jpg
-https://commons.wikimedia.org/wiki/File:Iris_virginica.jpg
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/220px-Kosaciec_szczecinkowaty_Iris_setosa.jpg)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/220px-Iris_versicolor_3.jpg)
+![image](https://commons.wikimedia.org/wiki/File:Iris_virginica.jpg)
 
 ## Licencia
 
