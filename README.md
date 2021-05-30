@@ -30,7 +30,7 @@ Iris Setosa
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/220px-Kosaciec_szczecinkowaty_Iris_setosa.jpg)
 
 Iris Versicolor
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/220px-Iris_versicolor_3.jpg)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_virginica.jpg/220px-Iris_virginica.jpg)
 
 Iris Virginica
 ![image](https://commons.wikimedia.org/wiki/File:Iris_virginica.jpg)
